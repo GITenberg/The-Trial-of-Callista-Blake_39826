@@ -1,0 +1,29 @@
+_repo: The-Trial-of-Callista-Blake_39826
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39826-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pangborn, Edgar
+    birthdate: 1909
+    deathdate: 1976
+    gutenberg_agent_id: '32078'
+    url: http://www.gutenberg.org/2009/agents/32078
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Pangborn
+description: ''
+gutenberg_issued: '2012-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'United States -- Fiction'
+- !lcsh 'Trials (Murder) -- Fiction'
+title: The Trial of Callista Blake
+url: http://www.gutenberg.org/ebooks/39826
